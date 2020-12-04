@@ -1,2 +1,7 @@
 # CISC3130-Lab-7
-Repository for Lab 7 assignment for CISC3130 TY9 due December 6, 2020.
+Repository for Lab 7 assignment for CISC3130 TY9 due December 6, 2020. This repository contains one html file titled "index.html", and the webpage is hosted on GitHub pages. The URL for the website is: https://mahiri1009.github.io/CISC3130-Lab-7/. 
+The website is a simple personal website, an opening header with my full and a then a small bit of introductory educational background, followed by a section meant for contact information. I decided to only post my BC email and the link to my GitHub in the contact information section.
+The "contact information" section is succeeded by an "education" section where ordered lists are used to list the computer science courses I've already taken as well as the ones I am currently taking. And finally a "projects" section that contains links to my repositories for all 7 lab assignments (including this one) for this course.
+All of the above was coded in HTML.
+The CSS code creates two light gray "margins" for the page while the "main" part of the website is white, just to give it a bit less of a boring look. This was done by enclosing all of the pages contents in div tags and then giving it an id called "main." I used CSS to increase the margins on the left and right sides and give the div a 1px solid black border. I set the body's background to the light gray color in the CSS rule while the div background color remained white. That's how I got the page to have the gray margins. 
+That's all there is to the website, again to the visit the website, this is the link: https://mahiri1009.github.io/CISC3130-Lab-7/.
